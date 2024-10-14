@@ -1,0 +1,5 @@
+myvenv/
+__pycache__/
+*.pyc
+*.pyo
+.env       # Si usas archivos de variables de entorno
